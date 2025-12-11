@@ -1,0 +1,15 @@
+{
+    "name": "multi_surface_promethium_plates_recipe",
+    "version": "0.2.0",
+    "title": "Multisurface promehtium plates recipe",
+    "author": "Talandar",
+    "dependencies": [
+        "base >= 2.0",
+        "space-age",
+        "? Cerys-Moon-of-Fulgora"
+    ],
+    "description": "Mod that adds nuclear science pack and changes centrifuge into special building",
+    "factorio_version": "2.0",
+    "space_travel_required": true,
+    "spoiling_required": true
+}
