@@ -1,7 +1,7 @@
 {
     "name": "multi_surface_promethium_plate_recipe",
-    "version": "0.1.0",
-    "title": "Multisurface promethium plate recipe",
+    "version": "0.2.0",
+    "title": "Multi-surface Promethium Plate Recipe",
     "author": "Talandar",
     "dependencies": [
         "base >= 2.0",

@@ -26,12 +26,13 @@ for _, recipe in ipairs(msppr_chain) do
 		recipe = recipe.name,
 	})
 end
-
 local last_item = first_real_input
 
 for _, recipe in ipairs(msppr_chain) do
 	local res = recipe.msppr.result
 	local amount = res.amount or 1
+
+	recipe.ingredients = recipe.ingredients or {}
 
 	table.insert(recipe.ingredients, {
 		type = "item",
@@ -54,5 +55,4 @@ for _, recipe in ipairs(msppr_chain) do
 	recipe.allow_productivity = false
 	recipe.auto_recycle = false
 	last_item = res.name
-	recipe.icon = nil
 end
