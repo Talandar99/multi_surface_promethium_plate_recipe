@@ -208,6 +208,7 @@ data:extend({
 		},
 		allow_productivity = false,
 		auto_recycle = false,
+		maximum_productivity = 0,
 	},
 	{
 		type = "recipe",
@@ -237,6 +238,7 @@ data:extend({
 		results = { { type = "item", name = "msppr-hot-promethium-plate", amount = 1 } },
 		allow_productivity = false,
 		auto_recycle = false,
+		maximum_productivity = 0,
 	},
 	{
 		type = "recipe",
@@ -268,5 +270,6 @@ data:extend({
 		main_product = "msppr-promethium-plate",
 		allow_productivity = false,
 		auto_recycle = false,
+		maximum_productivity = 0,
 	},
 })

@@ -36,6 +36,7 @@ for _, recipe in ipairs(msppr_chain) do
 	local amount = res.amount or 1
 
 	recipe.ingredients = recipe.ingredients or {}
+	recipe.maximum_productivity = 0
 
 	table.insert(recipe.ingredients, {
 		type = "item",
