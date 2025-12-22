@@ -1,11 +1,12 @@
 {
     "name": "multi_surface_promethium_plate_recipe",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "title": "Multi-surface Promethium Plate Recipe",
     "author": "Talandar",
     "dependencies": [
         "base >= 2.0",
-        "space-age"
+        "space-age",
+        "? space-spidertron"
     ],
     "description": "Mod that overhauls promethium science in order to connect all planets with single recipe chain",
     "factorio_version": "2.0",
