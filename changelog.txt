@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.5.0
+Date: 2026-02-16
+  Changelog:
+    - added cerys recipe support (can be disabled in settings)
+    - added lignumis recipe support (can be disabled in settings)
+    - lignumis quality assembler require promethium plates(can be disabled in settings)
+---------------------------------------------------------------------------------------------------
 Version: 0.4.0
 Date: 2025-12-22
   Changelog:
