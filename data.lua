@@ -19,7 +19,7 @@ data:extend({
 		name = "msppr-nauvis",
 		icon = "__multi_surface_promethium_plate_recipe__/graphics/msppr-nauvis.png",
 		subgroup = "msppr",
-		order = "d[promethium]-r[nauvis]",
+		order = "d[promethium]-r[nauvis-a]",
 		inventory_move_sound = item_sounds.sulfur_inventory_move,
 		pick_sound = item_sounds.resource_inventory_pickup,
 		drop_sound = item_sounds.sulfur_inventory_move,

@@ -5,6 +5,8 @@ Date: 2026-03-10
     - added maraxsis multi surface material and recipe step (Trench-forged promethium) 
   Balacing:
     - Cerys recipe now require 1 plutonium less than before
+  Bugfixes:
+    - Cerys recipe now display in proper order
 ---------------------------------------------------------------------------------------------------
 Version: 0.5.0
 Date: 2026-02-16
