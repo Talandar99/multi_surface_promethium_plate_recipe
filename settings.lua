@@ -39,3 +39,15 @@ if mods["Cerys-Moon-of-Fulgora"] then
 		},
 	})
 end
+
+if mods["maraxsis"] then
+	data:extend({
+		{
+			type = "bool-setting",
+			name = "maraxsis-msppr",
+			setting_type = "startup",
+			default_value = true,
+			order = "msppr-d",
+		},
+	})
+end
