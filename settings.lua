@@ -51,3 +51,27 @@ if mods["maraxsis"] then
 		},
 	})
 end
+
+if mods["corrundum"] then
+	data:extend({
+		{
+			type = "bool-setting",
+			name = "msppr-corrundum",
+			setting_type = "startup",
+			default_value = true,
+			order = "msppr-e",
+		},
+	})
+end
+
+if mods["planet-rabbasca"] then
+	data:extend({
+		{
+			type = "bool-setting",
+			name = "msppr-planet-rabbasca",
+			setting_type = "startup",
+			default_value = true,
+			order = "msppr-d",
+		},
+	})
+end

@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.7.0
+Date: 2026-05-01
+  Changelog:
+    - added rabbasca multi surface recipe made by minotaur.discotheque
+    - added corrundum multi surface recipe made by minotaur.discotheque
+---------------------------------------------------------------------------------------------------
 Version: 0.6.1
 Date: 2026-03-12
   Bugfixes:
